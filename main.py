@@ -8,7 +8,7 @@ from datetime import datetime, timedelta
 app = Flask(__name__)
 
 # ================= CONFIGURATION =================
-ADMIN_PATH = "/admin-faizi"
+ADMIN_PATH = "/admin-henry"
 ADMIN_PASSWORD = "FFF"  # Change this!
 DATA_FILE = "approved_data.json"
 START_URL = "https://faiizuapk.unaux.com/"
